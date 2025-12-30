@@ -3,7 +3,7 @@ Pharmaceutical Sales & Customer Insights Dashboard
 
 📌 Project Overview
 
-        This project focuses on analyzing pharmaceutical sales data to uncover meaningful insights related to sales performance, customer behavior, profitability, and regulatory compliance. Using Power BI, raw sales data is transformed into an interactive dashboard that supports data-driven business decisions.
+This project focuses on analyzing pharmaceutical sales data to uncover meaningful insights related to sales performance, customer behavior, profitability, and regulatory compliance. Using Power BI, raw sales data is transformed into an interactive dashboard that supports data-driven business decisions.
 
 🎯 Objective
 
@@ -156,7 +156,7 @@ Pharmaceutical Sales & Customer Insights Dashboard
 
 ✅ Conclusion
 
-        The Pharmaceutical Sales & Customer Insights Dashboard delivers a powerful analytical view of sales, customers, profitability, and compliance. By applying best practices such as star schema modeling, optimized DAX measures, and clean visual design, this project enables faster insights, better decision-making, and scalable analytics for pharmaceutical businesses.
+The Pharmaceutical Sales & Customer Insights Dashboard delivers a powerful analytical view of sales, customers, profitability, and compliance. By applying best practices such as star schema modeling, optimized DAX measures, and clean visual design, this project enables faster insights, better decision-making, and scalable analytics for pharmaceutical businesses.
 
 🚀 Future Enhancements
 
