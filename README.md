@@ -7,31 +7,31 @@ This project focuses on analyzing pharmaceutical sales data to uncover meaningfu
 
 🎯 Objective
 
-To build a comprehensive analytics solution that helps stakeholders:
-
-Monitor overall sales performance
-
-Identify top-selling and under-performing drugs
-
-Understand customer demographics and buying behavior
-
-Analyze profitability and cost efficiency
-
-Track regulatory compliance impact on sales
+    To build a comprehensive analytics solution that helps stakeholders:
+    
+    Monitor overall sales performance
+    
+    Identify top-selling and under-performing drugs
+    
+    Understand customer demographics and buying behavior
+    
+    Analyze profitability and cost efficiency
+    
+    Track regulatory compliance impact on sales
 
 ❗ Problem Statement
 
-Pharmaceutical companies handle large volumes of sales and customer data but often lack:
-
-Clear visibility into revenue and profit trends
-
-Segmented customer insights
-
-Drug-level performance tracking
-
-Time-based sales trend analysis
-
-This dashboard addresses these gaps by providing centralized, visual, and actionable insights.
+    Pharmaceutical companies handle large volumes of sales and customer data but often lack:
+    
+    Clear visibility into revenue and profit trends
+    
+    Segmented customer insights
+    
+    Drug-level performance tracking
+    
+    Time-based sales trend analysis
+    
+    This dashboard addresses these gaps by providing centralized, visual, and actionable insights.
 
 🏗️ Architecture & Workflow
 
